@@ -1,2 +1,3 @@
 # TTPEX-memory
-Code for the paper 《You should remember: An Memory-AugmentedFramework for TTP extraction Agent》
+Memory for the paper 《LLM Don't Need to Learn: An Memory-Augmented Framework for TTP Extraction Agent》
+The memory automatially genarated by LLM is coming soon....
